@@ -1,5 +1,5 @@
 {
-  "name": "ear_website",
+  "name": "thandanani_website",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -13,7 +13,7 @@
     "ansi-styles": "^4.3.0",
     "body-parser": "^1.19.0",
     "chalk": "^4.1.2",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.0.3",
     "express": "^4.17.1",
     "express-handlebars": "^5.3.3",
     "glob": "^7.1.7",
@@ -26,8 +26,7 @@
     "promise-all-reject-late": "^1.0.1",
     "promise-call-limit": "^1.0.1",
     "rimraf": "^3.0.2",
-    "safe-buffer": "^5.2.1",
-    "sqlite3": "^5.1.6"
+    "safe-buffer": "^5.2.1"
   },
   "devDependencies": {
     "mocha": "^9.1.1"
