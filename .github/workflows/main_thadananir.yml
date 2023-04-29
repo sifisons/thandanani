@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'thadananir'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3683722162CB4F8A9959B82842332C32 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E5ACBB498FE426784F86653ED8BFF34 }}
           package: .
