@@ -22,6 +22,7 @@
     "nodemailer": "^6.6.3",
     "npm": "^9.6.4",
     "p-map": "^4.0.0",
+    "package-lock.json": "^1.0.0",
     "path": "^0.12.7",
     "promise-all-reject-late": "^1.0.1",
     "promise-call-limit": "^1.0.1",
